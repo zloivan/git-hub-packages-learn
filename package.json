@@ -1,0 +1,19 @@
+{
+  "name": "com.zloivan.test-github-package",
+  "version": "1.0.0",
+  "description": "Test package in github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zloivan/git-hub-packages-learn.git"
+  },
+  "author": "Ivan Khomichkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zloivan/git-hub-packages-learn/issues"
+  },
+  "homepage": "https://github.com/zloivan/git-hub-packages-learn#readme"
+}
