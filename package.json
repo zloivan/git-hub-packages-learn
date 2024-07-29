@@ -1,5 +1,5 @@
 {
-  "name": "com.zloivan.test-github-package",
+  "name": "com.zloivan.testgithubpackage",
   "version": "1.0.0",
   "description": "Test package in github packages",
   "main": "index.js",
